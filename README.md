@@ -1,4 +1,4 @@
-# CS425 - mp4 - Group 58
+# MapleJuice
 
 The MapleJuice focuses on making a distributed task scheduler over a distributed file system using a gossip based membership protocol. MapleJuice has a leader-worker architecture, and closely resembles MapReduce, and can handle failure of worker nodes. It also has an SQL parser to run SQL-like queries.
 
