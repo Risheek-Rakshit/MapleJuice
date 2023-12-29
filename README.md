@@ -70,6 +70,6 @@ Note: Here we have assumed that introducer is launched first before all nodes ar
 
 ## Report
 
-Please refer to MapleJuice_report.pdf for further insights into design and performance.
+Please refer to MapleJuice_report.pdf for further insights into design and performance and DistributedGroupMembership-Report.pdf for failure detection protocol and DistributedFileSystem-Report.pdf for the underlying file system performance. 
 
 
